@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-Driven software engineer with 7+ years of experience developing and optimizing full-stack applications. 
+I'm Abdeldjalil Belakhdar, a Senior Software Engineer with 10+ years of experience in back-end development. I'm passionate about creating high-quality, scalable solutions and fostering collaborative environments.
 
-Open source enthusiast who contributed to the Firebug and Nmap projects and other Github repos.
+🚀 **Skills**: PHP, JavaScript, TypeScript, Laravel, Symfony, React, Next.js, Fastify, PostgreSQL, MySQL, Redis, Memcached, GNU/Linux, Ansible, Docker, Git
 
-Constantly learning and staying up-to-date with the latest technologies. 
+🔭 **I'm currently working on**:
+- Multiple Figma plugins to streamline workflows, including:
+  - Image Minifire: Image compression tool
+  - Thumblisher: Social media thumbnail generator
+  - Theme Composer: Website template and UI component generator
+- Refactoring the backend for those plugins from Symfony/NextJs to Laravel to simplify maintenance.
 
-Skilled in PHP, PostgreSQL, Next.js, React, Node.js,  and more.
+🌱 **I'm currently**:
+- Continuously learning and staying up-to-date with the latest technologies
+- Looking to join a driven team of developers building products that make a difference
+- Excited to take on ambitious projects and create intuitive solutions to complex problems
 
-Here are some ideas to get you started:
+👨‍💻 **Open Source Contributions**:
+- Firebug (Mozilla): Implemented features and translations
+- Nmap: Developed Lua scripts for automated post-scan tasks
 
-- 🔭 I’m currently working on multiple Figma plugins to streamline workflows, including image compression, thumbnail generation, and web template tools
-- 🌱 I’m currently Looking to join a driven team of developers building products that make a difference. Excited to take on ambitious projects and create intuitive solutions to complex problems.
-- 📫 How to reach me: zendyani@gmail.com
+📫 **How to reach me**: 
+- Email: zendyani@gmail.com
+- GitHub: You're already here! 😉
 
+💼 **Professional Experience**:
+- Senior Software Engineer at Truly Experiences Ltd (Mar 2022 - Present)
+- Software Development Engineer at Ionoid.io - Open Devices GmbH (Jan 2019 - Dec 2019)
+- Back End Developer at Kreo Agency (Jan 2008 - Jan 2018)
+
+🌐 **Languages**: English, French, Arabic
+
+Always eager to collaborate on interesting projects and tackle new challenges in the world of software development!
